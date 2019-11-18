@@ -1,0 +1,8 @@
+restservice\application\AppConfiguration.class
+restservice\application\controller\OrdersController.class
+restservice\application\repository\OrdersRepository.class
+restservice\application\application.class
+restservice\application\model\Orders.class
+restservice\application\dao\OrdersDAO.class
+restservice\application\MainApplication.class
+restservice\application\Technologies.class
